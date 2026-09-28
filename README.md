@@ -200,7 +200,7 @@ rostopic hz /so3_control/pos_cmd
 ```bibtex
 @article{he2026omnirisk,
   title   = {OmniRisk: Omnidirectional Trajectory-Risk Learning for Agile Quadrotor Dynamic Avoidance},
-  author  = {He, Yifan and Liu, Yang and Zhao, Wenhao and Lin, Hai and Zhang, Deping and Ma, Mingze and Gao, Fei and Yu, Huan and Dai, Zipeng and Ding, Ziming},
+  author  = {He, Yifan and Liu, Yang and Zhao, Wenhao and Lin, Hai and Zhang, Deping and Ma, Mingze and Zhou, Xin and Gao, Fei and Yu, Huan and Dai, Zipeng and Ding, Ziming},
   journal = {arXiv preprint arXiv:2609.18191},
   year    = {2026}
 }
